@@ -9,7 +9,7 @@ help() {
 }
 
 version() {
-  task version
+  task --version
 }
 
 core() {
